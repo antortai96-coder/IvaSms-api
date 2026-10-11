@@ -1,15 +1,44 @@
+[
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "app.py",
-      "use": "@vercel/python"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "app.py"
-    }
-  ]
+    "domain": ".ivasms.com",
+    "expirationDate": 1799533396,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "fb.1.1791750354391.654926921621051022",
+    "id": 1
+},
+{
+    "domain": "www.ivasms.com",
+    "expirationDate": 1791764597,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "ivas_sms_session",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJpdiI6IkpRcXBhRDk4REEzVkxtSVZYdklYWGc9PSIsInZhbHVlIjoiZXVQYzR3Qi9KalZaMG5rWng3QUlrZUNEUS9LYnVtZG0vSk8vdXFCcU1mWk54R2tpV1k3Z0lWcmlLcDV6ZUsyUEdHMGtrVVhudHdpcmtiSisybjZvTER5azZsOHZKWDN2NDBvY3BCMURaSG1keFJKYkYvQlBqWk5UelBtWXg2TUUiLCJtYWMiOiJmMmNiYjdlM2I1MDdmYTIxNTAwZGM1MGNlMDE0ZTc3YWQwMjgwZjY3ZmM4ZDRjYTJmMjkwYzk3NTNhNGMxMzA4IiwidGFnIjoiIn0%3D",
+    "id": 2
+},
+{
+    "domain": "www.ivasms.com",
+    "expirationDate": 1791764597,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "XSRF-TOKEN",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJpdiI6Ikx0OUg4VG5IMDNUSzh3b0JZM051ZHc9PSIsInZhbHVlIjoiMlBBeU4wRFJhYTVtWkpyeCs2RnJIUUdFdWZEeVpoZnhJYXpsbllxVGREMjFEY0dMNzh2ZktrQUF1SW9xRnhXTVY5aGp3WS9BWHpZQlZLditjYzNCeXFDSnNDTjRNWDlWbzJtWURlY2VmMUIzQmpXUG1CMlMxdUNJTHJvMjJaa28iLCJtYWMiOiJhNWVjMWQ5ZGUzNTFkNGIwNTE2NjUyMDFlN2U1ZDg1ZGZkMDhiM2RkMjlmMDlkOGJhYWEwZDEyMmU4MWY1NWRlIiwidGFnIjoiIn0%3D",
+    "id": 3
 }
+]
